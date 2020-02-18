@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536403083532",
+    "firebase_url": "https://newfireapp-219f4.firebaseio.com",
+    "project_id": "newfireapp-219f4",
+    "storage_bucket": "newfireapp-219f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536403083532:android:5523ddcac17fd72d3ec929",
+        "android_client_info": {
+          "package_name": "com.rupesh.newfireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536403083532-qiulco9qf5un2ufngtlfp8u4c014kq5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupesh.newfireapp",
+            "certificate_hash": "cac43b715677805619e3a23089f333611be4e3cd"
+          }
+        },
+        {
+          "client_id": "536403083532-2eoat6th18iogfr9bqjkgs4q6m1d2hl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWm9z2GRBQal-KBNBvgNgN2D4iprwhnBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536403083532-2eoat6th18iogfr9bqjkgs4q6m1d2hl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
