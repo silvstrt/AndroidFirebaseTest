@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     private ListView listView;
     private ArrayList<String> username = new ArrayList<>();
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -91,13 +93,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
-
-
-
-
-
-
+        
 
         // Adding ValueEventListener to the reference, it constantly listens to the reference
         // so whenever the value of that reference changes, we get notified of that particular
